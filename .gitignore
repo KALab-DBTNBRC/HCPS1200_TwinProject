@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Never commit actual subject data
+*.csv
+!**/example_*.csv
+*.nii.gz
+*.mif
