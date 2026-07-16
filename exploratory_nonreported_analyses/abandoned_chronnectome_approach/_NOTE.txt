@@ -1,0 +1,14 @@
+An earlier dynamic-connectivity approach (network-averaged timeseries,
+sliding window=30/step=2, k-means state clustering with silhouette
+validation) was built and then abandoned in favor of the simpler,
+more robust approach reported in the paper (window=100/step=20, direct
+per-edge variance across windows, surrogate-corrected -- see
+09_dynamic_functional_connectivity/01_sliding_window_fluidity.py).
+
+Confirmed via direct text search: zero trace of this window=30/step=2
+approach, or the term "chronnectome," anywhere in the final manuscript.
+
+Kept here for transparency rather than deleted, same reasoning as the
+CFE folder. 01_network_averaged_timeseries.py produces the
+Network_Timeseries this approach depends on; 02_chronnectome_clustering.py
+is the actual abandoned clustering analysis.

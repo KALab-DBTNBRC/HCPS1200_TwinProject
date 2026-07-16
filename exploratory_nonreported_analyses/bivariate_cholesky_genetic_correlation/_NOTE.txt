@@ -1,0 +1,8 @@
+Bivariate Cholesky decomposition estimating genetic correlation (rA)
+between paired structural and functional phenotypes. Reported in the
+manuscript as explicitly exploratory, not a finding: "A bivariate
+Cholesky model returned a high genetic correlation between reward-network
+structure and function (rA = 0.98, 95% CI 0.92-1.00, p = 0.03) that did
+not survive correction (q >= 0.13) and rests on a modest DZ sample."
+Kept here, honestly labeled, same treatment as the other exploratory
+folders -- not deleted, not presented as core evidence.

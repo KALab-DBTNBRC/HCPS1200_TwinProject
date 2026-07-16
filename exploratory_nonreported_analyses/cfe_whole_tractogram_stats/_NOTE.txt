@@ -1,0 +1,9 @@
+Connectivity-based fixel enhancement (CFE) was applied to whole-tractogram
+fixel statistics as an alternative to the a priori, four-network approach
+used in the reported analysis. Results were non-significant and are not
+the basis of any finding in the paper. Kept here for transparency rather
+than deleted -- this is real analysis that was run, not a draft.
+
+Depends on the tractography/SIFT2/CFE-matrix outputs of
+05_diffusion_fba_pipeline/06_extract_metrics.py (Level 1) but is not
+itself part of the reported pipeline.

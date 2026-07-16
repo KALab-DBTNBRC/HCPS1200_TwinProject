@@ -1,0 +1,14 @@
+The bi-tensor DIPY free-water-elimination (fwdti) approach was attempted
+first and FAILED its own validation gate: the free-water-corrected MD was
+nearly uncorrelated with standard MD (R^2~0.04), and the free-water
+fraction f ran negative with age (real free water rises with age). The
+single-voxel bi-tensor problem is ill-posed without spatial
+regularization.
+
+This was superseded by the NODDI/AMICO approach
+(07_freewater_and_isotropic_modeling/01_noddi_isovf_extraction.py), which
+passed its own age-direction validity gate and is the actual source of
+the reported free-water exclusion in Table 4.
+
+Kept here for transparency, not deleted -- same reasoning as the other
+exploratory folders.
