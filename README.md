@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/status-submission--ready-brightgreen)
 ![Data](https://img.shields.io/badge/data-HCP--S1200-blue)
 ![N](https://img.shields.io/badge/N-238%20(119%20twin%20pairs)-lightgrey)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.21395602)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21395602.svg)]([https://doi.org/10.5281/zenodo.21395602])
 
 **Ritam Kanti Roy¹ · Rahul Kothekar¹ · Tanya Bassi¹ · Andrea Jebel¹ · Shefali Chaudhary² · Siddharth Sarkar³ · Yatan Pal Singh Balhara³ · Khushbu Agarwal¹\***
 
